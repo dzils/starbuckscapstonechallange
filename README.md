@@ -7,7 +7,7 @@ This python notebook is part of my capstone project for the Data Science Nanodeg
 The problem I chose to solve is to predict if a customer will respond to an offer. To achieve this, I will train a model with a combination of the transaction and profile data.
 
 ## Results
-After the data preprocessing I chose five different classifiers to test. All five classifiers had roughly the same performance. This part was unexpected, although I used grid search to optimize each of the classifiers. The unexeptional scores of accuracy with 0.74 and a F1-score with 0.73 (0.74 for MLP) was not unexpected though. The randomness of the data is tricky to deal with: even the same person may respond to the same offer differently on a different day.
+After the data preprocessing I chose five different classifiers to test. All five classifiers had roughly the same performance. This part was unexpected, although I used grid search to optimize each of the classifiers. The mediocre scores of accuracy with 0.74 and a F1-score with 0.73 (0.74 for MLP) was not unexpected though. The randomness of the data is tricky to deal with: even the same person may respond to the same offer differently on a different day.
 
 The analysis of the feature importances showed that both customer and offer features are important whether an offer is successful or not. For the customer features income and age are most important and reward, difficulty and duration for the offer features.
 
