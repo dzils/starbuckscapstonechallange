@@ -3,6 +3,8 @@
 #### Project Overview
 This python notebook is part of my capstone project for the Data Science Nanodegree from Udacity. The provided data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once in a while Starbucks sends offers to their customers through different channels, e.g. Email or Social Media. These offers vary for different users and range from simple advertisements up to discounts like "buy one get one free".
 
+You can read my blog post about this project on [Medium](https://medium.com/@david.zils/starbucks-capstone-challenge-predicting-offer-success-9f2b4d8f25b)
+
 #### Problem Statement
 The problem I chose to solve is to predict if a customer will respond to an offer. To achieve this, I will train a model with a combination of the transaction and profile data.
 
