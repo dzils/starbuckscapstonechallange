@@ -1,4 +1,4 @@
-# Starbucks Capstone Challange
+# Starbucks Capstone Challenge
 ## Motivation
 #### Project Overview
 This python notebook is part of my capstone project for the Data Science Nanodegree from Udacity. The provided data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once in a while Starbucks sends offers to their customers through different channels, e.g. Email or Social Media. These offers vary for different users and range from simple advertisements up to discounts like "buy one get one free".
